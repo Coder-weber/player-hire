@@ -1,0 +1,10 @@
+
+.summary {
+    background-color: rgba(65, 63, 168, 0.452);
+    width: 451px;
+    margin-left: 431px;
+    border-radius: 40px;
+}
+.summary>h1{
+    border-bottom: 1px solid rebeccapurple;
+}
